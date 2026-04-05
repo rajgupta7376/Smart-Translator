@@ -43,7 +43,7 @@ smart-translator/
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/smart-translator.git
+https://github.com/rajgupta7376/Smart-Translator/blob/main/main.py
 
 ### 2️⃣ Navigate to project folder
 
