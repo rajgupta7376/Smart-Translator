@@ -25,12 +25,11 @@ A Python-based desktop application that translates text between multiple languag
 
 ## 📂 Project Structure
 
-smart-translator/
+smart translator/
 │── main.py
 │── requirements.txt
 │── README.md
-│── assets/
-│    └── screenshot.png
+│── screenshot.png
 
 ---
 
