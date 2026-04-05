@@ -36,8 +36,7 @@ smart-translator/
 
 ## 📸 Screenshots
 
-screenshot.png
-
+![Smart Translator UI](screenshot.png)
 ---
 
 ## ⚙️ Installation & Setup
