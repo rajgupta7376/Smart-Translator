@@ -36,7 +36,7 @@ smart-translator/
 
 ## 📸 Screenshots
 
-![Smart Translator UI](assets/screenshot.png)
+screenshot.png
 
 ---
 
